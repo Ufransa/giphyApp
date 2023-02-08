@@ -1,6 +1,6 @@
 # GiphyApp
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.1.4.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.1.4. This app is conect to Giphy API and here you will be able to search for any gif in them data base.
 
 ## Development server
 
